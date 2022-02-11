@@ -14,3 +14,4 @@ spot_moveit_config:
   Control of the arm using Rviz
   
   Gazebo simulation
+  ![alt text](https://github.com/estherRay/Spot-Arm/blob/main/ArmMoveIt.png)
