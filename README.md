@@ -4,7 +4,7 @@ This repository was developed and tested on Ubuntu 18.04 with ROS Melodic.
 spot_arm_description:
 
   Hardware description of spot arm (stl, urdf, ...)
-  https://github.com/estherRay/Spot-Arm/blob/main/ArmDescription.png
+  ![alt text](https://github.com/estherRay/Spot-Arm/blob/main/ArmDescription.png)
   
   
 spot_moveit_config:
