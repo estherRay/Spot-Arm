@@ -3,6 +3,7 @@ This repository was developed and tested on Ubuntu 18.04 with ROS Melodic.
 You will need to install:
 
 sudo apt install ros-melodic-joint-state-publisher-gui
+
 sudo apt-get install ros-melodic-moveit
 
 
